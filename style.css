@@ -1,0 +1,23 @@
+body {
+    color: red;
+    background: linear-gradient(rgb(123, 255, 0) 25%, rgb(0, 255, 106) 50%)  ;
+    
+    }
+    .heading {
+    width: 80%;
+    font-size: 20px;
+    color:deepskyblue;
+    }
+    
+    #camera {
+    border: 2px dashed cornflowerblue;
+    width: 350px;
+    height: 300px;
+    }
+    
+    .name_of_objects, #result_object_name, #result_object_accuracy {
+    color: rgb(73, 20, 220);
+    font-weight: bolder;
+    font-style: italic;
+    }
+    
